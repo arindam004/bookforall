@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bookforall/static/css/main.18187571.chunk.css",
+    "main.js": "/bookforall/static/js/main.e898975a.chunk.js",
+    "main.js.map": "/bookforall/static/js/main.e898975a.chunk.js.map",
+    "runtime-main.js": "/bookforall/static/js/runtime-main.03c6be2f.js",
+    "runtime-main.js.map": "/bookforall/static/js/runtime-main.03c6be2f.js.map",
+    "static/css/2.818011ed.chunk.css": "/bookforall/static/css/2.818011ed.chunk.css",
+    "static/js/2.3bfeb75f.chunk.js": "/bookforall/static/js/2.3bfeb75f.chunk.js",
+    "static/js/2.3bfeb75f.chunk.js.map": "/bookforall/static/js/2.3bfeb75f.chunk.js.map",
+    "static/js/3.95fe5135.chunk.js": "/bookforall/static/js/3.95fe5135.chunk.js",
+    "static/js/3.95fe5135.chunk.js.map": "/bookforall/static/js/3.95fe5135.chunk.js.map",
+    "index.html": "/bookforall/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/bookforall/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.18187571.chunk.css.map": "/bookforall/static/css/main.18187571.chunk.css.map",
+    "static/js/2.3bfeb75f.chunk.js.LICENSE.txt": "/bookforall/static/js/2.3bfeb75f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bookforall/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03c6be2f.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.3bfeb75f.chunk.js",
+    "static/css/main.18187571.chunk.css",
+    "static/js/main.e898975a.chunk.js"
+  ]
+}
